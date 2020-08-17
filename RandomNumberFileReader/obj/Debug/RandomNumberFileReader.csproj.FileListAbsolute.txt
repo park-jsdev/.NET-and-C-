@@ -1,0 +1,10 @@
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.exe.config
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.exe
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.pdb
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csprojAssemblyReference.cache
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.Form1.resources
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.Properties.Resources.resources
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csproj.GenerateResource.cache
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csproj.CoreCompileInputs.cache
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.exe
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.pdb

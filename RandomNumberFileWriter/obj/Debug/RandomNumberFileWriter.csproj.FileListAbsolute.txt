@@ -1,0 +1,10 @@
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.exe.config
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.exe
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.pdb
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csprojAssemblyReference.cache
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.Form1.resources
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.Properties.Resources.resources
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.GenerateResource.cache
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.CoreCompileInputs.cache
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.exe
+C:\Users\pkjs\Desktop\C#\Assignment4\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.pdb
