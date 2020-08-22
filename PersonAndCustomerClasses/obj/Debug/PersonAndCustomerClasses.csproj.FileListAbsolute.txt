@@ -1,0 +1,11 @@
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\bin\Debug\PersonAndCustomerClasses.exe.config
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\bin\Debug\PersonAndCustomerClasses.exe
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\bin\Debug\PersonAndCustomerClasses.pdb
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.csprojAssemblyReference.cache
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.Form1.resources
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.Properties.Resources.resources
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.csproj.GenerateResource.cache
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.csproj.CoreCompileInputs.cache
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.exe
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.pdb
+C:\Users\pkjs\Desktop\C#\Assignment5\PersonAndCustomerClasses\obj\Debug\PersonAndCustomerClasses.Form2.resources
